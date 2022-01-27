@@ -1,0 +1,94 @@
+CustomerID,Gender,Age,Annual_Income,Total_Purchase,TransactionID,ProductID,Category,Quantity,UnitPrice,Residence, rating
+1,Male,19,15,39,53,85123A,Book,6,2.55,Bensouda,5
+2,Male,21,15,81,365,71053,Milk,6,3.39,Rabat,5
+3,Female,20,16,6,365,71053,Milk,6,3.39,Rabat,5
+4,Female,23,16,77,365,71053,Milk,6,3.39,Rabat,4
+5,Female,31,17,40,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+6,Female,22,17,76,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+7,Female,35,18,6,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+8,Female,23,18,94,6365,84406B,COAT HANGER,8,2.75,Casablanca,3
+9,Male,64,19,3,6365,84406B,COAT HANGER,8,2.75,Casablanca,2
+10,Female,30,19,72,65,84029G,WATER BOTTLE,6,3.39,Agadir,2
+11,Male,67,19,14,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+12,Female,35,19,99,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+13,Female,58,20,15,365,84029E,Jacket,6,3.39,Rabat,1
+14,Female,24,20,77,365,84029E,Jacket,6,3.39,Rabat,5
+15,Male,37,20,13,365,84029E,Jacket,6,3.39,Rabat,4
+16,Male,22,20,79,365,84029E,Jacket,6,3.39,Rabat,3
+17,Female,35,21,35,365,84029E,Jacket,6,3.39,Rabat,2
+18,Male,20,21,66,365,84029E,Jacket,6,3.39,Rabat,2
+19,Male,52,23,29,365,84029E,Jacket,6,3.39,Rabat,4
+5,Female,31,17,40,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+6,Female,22,17,76,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+7,Female,35,18,6,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+8,Female,23,18,94,6365,84406B,COAT HANGER,8,2.75,Casablanca,3
+9,Male,64,19,3,6365,84406B,COAT HANGER,8,2.75,Casablanca,2
+10,Female,30,19,72,65,84029G,WATER BOTTLE,6,3.39,Agadir,2
+11,Male,67,19,14,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+12,Female,35,19,99,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+13,Female,58,20,15,365,84029E,Jacket,6,3.39,Rabat,1
+14,Female,24,20,77,365,84029E,Jacket,6,3.39,Rabat,5
+15,Male,37,20,13,365,84029E,Jacket,6,3.39,Rabat,4
+16,Male,22,20,79,365,84029E,Jacket,6,3.39,Rabat,3
+17,Female,35,21,35,365,84029E,Jacket,6,3.39,Rabat,2
+38,Male,20,21,66,365,84029E,Jacket,6,3.39,Rabat,2
+29,Male,52,23,29,365,84029E,Jacket,6,3.39,Rabat,4
+85,Female,31,17,40,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+86,Female,22,17,76,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+97,Female,35,18,6,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+88,Female,23,18,94,6365,84406B,COAT HANGER,8,2.75,Casablanca,3
+89,Male,64,19,3,6365,84406B,COAT HANGER,8,2.75,Casablanca,2
+70,Female,30,19,72,65,84029G,WATER BOTTLE,6,3.39,Agadir,2
+71,Male,67,19,14,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+72,Female,35,19,99,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+73,Female,58,20,15,365,84029E,Jacket,6,3.39,Rabat,1
+74,Female,24,20,77,365,84029E,Jacket,6,3.39,Rabat,5
+75,Male,37,20,13,365,84029E,Jacket,6,3.39,Rabat,4
+76,Male,22,20,79,365,84029E,Jacket,6,3.39,United Kingdom,3
+77,Female,35,21,35,365,84029E,Jacket,6,3.39,Rabat,2
+78,Male,20,21,66,365,84029E,Jacket,6,3.39,Rabat,2
+99,Male,52,23,29,365,84029E,Jacket,6,3.39,Rabat,4
+65,Female,31,17,40,6365,84406B,COAT HANGER,8,2.75,Casablanca,4
+66,Female,22,17,76,6365,84406B,COAT HANGER,8,2.75,United Kingdom,4
+87,Female,35,18,6,6365,84416B,COAT HANGER,8,2.75,Casablanca,4
+58,Female,23,18,94,6365,84406A,COAT HANGER,8,2.75,Casablanca,3
+59,Male,64,19,3,6365,84406B,COAT HANGER,8,2.75,Casablanca,2
+70,Female,30,19,72,65,84029G,WATER BOTTLE,6,3.39,Agadir,2
+11,Male,67,19,14,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+12,Female,35,19,99,65,84029G,WATER BOTTLE,6,3.39,Agadir,1
+13,Female,58,20,15,365,84029E,Jacket,6,3.39,Rabat,1
+14,Female,24,20,77,365,84029E,Jacket,6,3.39,Netherlands,5
+15,Male,37,20,13,365,84029E,Jacket,6,3.39,Netherlands,4
+16,Male,22,20,79,365,84029E,Jacket,6,3.39,Rabat,3
+17,Female,35,21,35,365,84029E,Jacket,6,3.39,Rabat,2
+18,Male,20,21,66,365,84029E,Jacket,6,3.39,United Kingdom,2
+19,Male,52,23,29,365,84029E,Jacket,6,3.39,Netherlands,4
+20,Male,52,23,29,365,84029E,Jacket,6,3.39,Rabat,4
+21,Female,52,23,29,365,84029E,Jacket,6,3.39,United Kingdom,4
+24,Male,31,25,73,5,22752,Shoes,2,7.65,Casablanca,1
+25,Female,54,28,14,5,22752,Shoes,2,7.65,United Kingdom,3
+26,Male,29,28,82,5,22752,Shoes,2,7.65,Casablanca,2
+27,Female,45,28,32,7,21730,Pen,6,4.25,United Kingdom,2
+28,Male,35,28,61,7,21730,Pen,6,4.25,Bensouda,2
+29,Female,40,29,31,7,21730,Pen,6,4.25,Bensouda,1
+30,Female,23,29,87,7,21730,Pen,6,4.25,Canada,1
+31,Male,60,30,4,9,22633,Milk,6,1.85,Agadir,1
+32,Female,21,30,73,9,22633,Milk,6,1.85,Netherlands,2
+33,Male,53,33,4,9,22633,Milk,6,1.85,Agadir,5
+34,Male,18,33,92,9,22633,Milk,6,1.85,Agadir,2
+35,Female,49,33,14,15,22632,Jeans,6,1.85,Canada,4
+36,Female,21,33,81,15,22632,Jeans,6,1.85,Uvillage,4
+37,Female,42,34,17,15,22632,Jeans,6,1.85,Germany,3
+38,Female,30,34,73,15,22632,Jeans,6,1.85,Germany,3
+39,Female,36,37,26,15,22632,Jeans,6,1.85,Uvillage,5
+40,Female,20,37,75,77,84879,Keyboard,32,1.69,Meknes,5
+41,Female,65,38,35,77,84879,Keyboard,32,1.69,Meknes,5
+42,Male,24,38,92,77,84879,Keyboard,32,1.69,United Kingdom,1
+43,Male,48,39,36,77,84879,Keyboard,32,1.69,Meknes,2
+44,Female,31,39,61,77,84879,Keyboard,32,1.69,Canada,4
+45,Female,49,39,28,77,84879,Keyboard,32,1.69,Meknes,5
+46,Female,20,37,75,77,84879,Oven,32,1.69,Canada,5
+47,Female,65,38,35,77,84879,Shoes,32,1.69,Canada,5
+48,Male,24,38,92,77,84879,Pen,32,1.69,United Kingdom,1
+49,Male,48,39,36,77,84879,Pen,32,1.69,Netherlands,2
+50,Female,31,39,61,77,84879,Mouse,32,1.69,Canada,4

@@ -1,0 +1,101 @@
+user_id,age,sex,Residence,iso_id
+1,28,F,Bensouda,MAR
+2,40,M,Rabat,MAR
+3,29,F,Rabat,MAR
+4,19,F,Rabat,MAR
+5,78,M,Casablanca,MAR
+6,23,M,Casablanca,MAR
+7,28,F,Casablanca,MAR
+8,40,M,Casablanca,MAR
+9,29,F,Casablanca,MAR
+10,19,F,Agadir,MAR
+11,78,M,Agadir,MAR
+12,23,M,Agadir,MAR
+13,28,F,Rabat,MAR
+14,40,M,Rabat,MAR
+15,29,F,Rabat,MAR
+16,19,F,Rabat,MAR
+17,78,M,Rabat,MAR
+18,23,M,Rabat,MAR
+19,28,F,Rabat,MAR
+20,40,M,Casablanca,MAR
+21,29,F,Casablanca,MAR
+22,19,F,Casablanca,MAR
+23,78,M,Casablanca,MAR
+24,23,M,Casablanca,MAR
+25,28,F,Agadir,MAR
+26,40,M,Agadir,MAR
+27,29,F,Agadir,MAR
+28,19,F,canada,CAN
+29,78,M,canada,CAN
+30,23,M,canada,CAN
+31,28,F,canada,CAN
+32,40,M,canada,CAN
+33,29,F,canada,CAN
+34,19,F,canada,CAN
+35,78,M,canada,CAN
+36,23,M,canada,CAN
+37,28,F,Casablanca,MAR
+38,40,M,Casablanca,MAR
+39,29,F,Casablanca,MAR
+40,19,F,Agadir,MAR
+41,78,M,Agadir,MAR
+42,23,M,Agadir,MAR
+43,28,F,Rabat,MAR
+44,40,M,Rabat,MAR
+45,29,F,Rabat,MAR
+46,19,F,United Kingdom,GBR
+47,78,M,Rabat,MAR
+48,23,M,Rabat,MAR
+49,28,F,Rabat,MAR
+50,40,M,Casablanca,MAR
+51,29,F,United Kingdom,GBR
+52,19,F,Casablanca,MAR
+53,78,M,Casablanca,MAR
+54,23,M,Casablanca,MAR
+55,28,F,Agadir,MAR
+56,40,M,Agadir,MAR
+57,29,F,Agadir,MAR
+58,19,F,Rabat,MAR
+59,78,M,Netherlands,NLD
+60,23,M,Netherlands,NLD
+61,28,F,Rabat,MAR
+62,40,M,Rabat,MAR
+63,29,F,United Kingdom,GBR
+64,19,F,Netherlands,NLD
+65,78,M,Rabat,MAR
+66,23,M,United Kingdom,GBR
+67,28,F,Casablanca,MAR
+68,40,M,United Kingdom,GBR
+69,29,F,Casablanca,MAR
+70,19,F,United Kingdom,GBR
+71,78,M,Bensouda,MAR
+72,23,M,Bensouda,MAR
+73,28,F,Canada,CAN
+74,40,M,Agadir,MAR
+75,29,F,Netherlands,NLD
+76,19,F,Agadir,MAR
+77,78,M,Agadir,MAR
+78,28,F,Canada,CAN
+79,40,M,Uvillage,MAR
+80,29,F,Germany,DEU
+81,19,F,Germany,DEU
+82,78,M,Uvillage,MAR
+83,23,M,Meknes,MAR
+84,28,F,Meknes,MAR
+85,40,M,United Kingdom,GBR
+86,29,F,Meknes,MAR
+87,19,F,Canada,CAN
+88,78,M,Meknes,MAR
+89,23,M,Canada,CAN
+90,28,F,Canada,CAN
+91,40,M,United Kingdom,GBR
+92,29,F,Netherlands,NLD
+93,19,F,Canada,CAN
+94,78,M,United Kingdom,GBR
+95,23,M,Netherlands,NLD
+96,28,F,Canada,CAN
+97,40,M,United Kingdom,GBR
+98,29,F,Netherlands,NLD
+99,19,F,Canada,CAN
+100,78,M,United Kingdom,GBR
